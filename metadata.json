@@ -1,0 +1,6 @@
+{
+  "name": "Tadka Pantry",
+  "description": "Upload fridge photos or add vegetables manually to get Indian-inspired vegetarian recipe recommendations with YouTube recipe video links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
